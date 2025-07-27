@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Allan Paiz...
+
+I'm a computer science major (math minor) at the University of South Carolina.
+
+More coming soon...
 
 <!--
 **allanpaiz/allanpaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
